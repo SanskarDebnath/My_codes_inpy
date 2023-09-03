@@ -1,0 +1,5 @@
+In Python, 
+a re dictionary is a dictionary that maps regular expressions to replacement strings.
+This can be used to replace patterns in strings with other strings.
+For example, the following code uses a re dictionary to replace all occurrences of the word 
+    "hello" with the word "goodbye":
